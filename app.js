@@ -79,13 +79,8 @@ products.forEach(product => {
 function buy(id) {
 
     tg.sendData(JSON.stringify({
-
         action: "buy",
-
         product: id
-
     }));
-
-    tg.close();
 
 }
