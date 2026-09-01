@@ -17,7 +17,7 @@ const products = [
         name: "START",
         price: 2,
         desc: "Тестовый аккаунт с моментальной выдачей.",
-        img: "https://raw.githubusercontent.com/khromtsovgleb-source/telegram-store/main/images/resized-image_part_001.jpg"
+        img: "./images/resized-image_part_001.jpg"
     },
 
     {
@@ -25,7 +25,7 @@ const products = [
         name: "VIP",
         price: 2,
         desc: "VIP тестовый аккаунт.",
-        img: "https://raw.githubusercontent.com/khromtsovgleb-source/telegram-store/main/images/resized-image_part_003.jpg"
+        img: "./images/resized-image_part_003.jpg"
     },
 
     {
@@ -33,7 +33,7 @@ const products = [
         name: "PREMIUM",
         price: 3,
         desc: "Расширенный тестовый аккаунт.",
-        img: "https://raw.githubusercontent.com/khromtsovgleb-source/telegram-store/main/images/resized-image_part_002.jpg"
+        img: "./images/resized-image_part_002.jpg"
     }
 
 ];
